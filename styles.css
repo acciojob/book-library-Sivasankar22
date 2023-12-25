@@ -22,8 +22,8 @@ p{
 }
 .price{
 	height:25px;
-	background:green;
-	color:#2ecc71;
+	background:#2ecc71;
+	
 }
 
 hr{
@@ -37,7 +37,4 @@ background:#ffffff;
 }
 .book-library img{
 	padding:10px;
-}
-body{
-	Background:#f8f8f8;
 }
