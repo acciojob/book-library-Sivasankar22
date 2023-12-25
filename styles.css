@@ -31,10 +31,13 @@ hr{
 	background:white;
 }
 .book-library{
-background:#f8f8f8;
+background:#ffffff;
 	text-align:center;
 
 }
 .book-library img{
 	padding:10px;
+}
+body{
+	Background:#f8f8f8;
 }
