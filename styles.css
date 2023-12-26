@@ -16,13 +16,14 @@ p{
 	padding-left:10px;
 	color:#777777;
 }
-#rate{
+.Price-block p{
 	text-align:center;
 	padding-top:3px;
 }
-.price{
+.Price-block{
 	height:25px;
 	background:#2ecc71;
+	text-align:center;
 	
 }
 
@@ -31,7 +32,7 @@ hr{
 	background:white;
 }
 .book-library{
-background:#ffffff;
+background:#f8f8f8;
 	text-align:center;
 
 }
